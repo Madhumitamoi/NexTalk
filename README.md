@@ -1,5 +1,7 @@
 # NexTalk
 
+[Click here to use](https://nextalk.onrender.com)
+
 A real-time chat application where users can create rooms and chat among themselves. 
 
 Tools and Technologies: HTML, CSS, JavaScript, Node.js, Express.js and Socket.IO
