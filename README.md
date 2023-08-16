@@ -6,8 +6,6 @@ A real-time chat application where users can create rooms and chat among themsel
 
 Tools and Technologies: HTML, CSS, JavaScript, Node.js, Express.js and Socket.IO
 
-![Chat Application Screenshot](screenshot.png)
-
 ## Features
 
 - Users can create chat rooms.
