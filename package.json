@@ -4,8 +4,8 @@
   "description": "Real Time Chat App with rooms",
   "main": "server.js",
   "scripts": {
-    "start": "node server",
-    "dev": "nodemon server"
+    "start": "node server.js",
+    "dev": "node server.js"
   },
   "author": "Madhumita Moi",
   "license": "ISC",
